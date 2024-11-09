@@ -1,6 +1,7 @@
 # Wi-Protect - Wi-Fi Network Disruption Alert with Response + Location-Based Wi-Fi Access Control
 
 ![Meme](https://imgflip.com/s/meme/Disaster-Girl.jpg)
+
 *"When your ESP8266 catches a Wi-Fi intruder and quietly saves the network."*
 
 ## Overview
