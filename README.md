@@ -1,7 +1,7 @@
 # Wi-Protect - Wi-Fi Network Disruption Alert with Response + Location-Based Wi-Fi Access Control
 
-![Meme](https://i.imgflip.com/7ja3sp.jpg)
-*“When your ESP8266 catches a Wi-Fi intruder trying to get too close.”*
+![Meme](https://imgflip.com/s/meme/Disaster-Girl.jpg)
+*"When your ESP8266 catches a Wi-Fi intruder and quietly saves the network."*
 
 ## Overview
 This ESP8266-based project combines Wi-Fi network disruption detection with location-based access control. It monitors for deauthentication attacks (a form of Wi-Fi jamming), alerts users to disruptions, and restricts access based on device proximity to the ESP8266, providing an added layer of security.
